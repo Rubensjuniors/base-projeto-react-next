@@ -1,8 +1,8 @@
 {
-  "name": "youtube-videos",
+  "name": "base next",
   "version": "0.1.0",
   "author": {
-    "name": "Junior Alves"
+    "name": "Rubens junio"
   },
   "private": true,
   "scripts": {
